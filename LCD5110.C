@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 //#include <time.h>
-
+/////////////////////////////////¸ü¸Ä²âÊÔ
 #ifdef USE_BUF
 
 u8 lcd_buf[LCD_ROW][LCD_COLUMN];
